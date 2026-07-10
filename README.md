@@ -3,8 +3,8 @@
 ## How this folder works
 Every algorithm folder contains:
 1. `01_notes.md` — concept, intuition, key hyperparameters, pros/cons
-2. `02_interview_qna.md` — common interview questions with answers
-3. `03_project1_....ipynb` — a fully worked, executed example (different synthetic dataset per model)
+2. `02_projec1...ipynb` — executed example (different synthetic dataset per model)
+3. `03_project2_....ipynb` — a fully worked, executed example (different synthetic dataset per model)
    - The **last markdown cell of every Project 1 notebook** also contains your **Project 2 instructions**: a different real dataset (from sklearn/seaborn, no internet download needed beyond what's built into those libraries) for you to practice the same algorithm alone.
 
 ## Roadmap
